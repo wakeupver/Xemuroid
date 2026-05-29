@@ -20,7 +20,6 @@
 
 #include "unordered_map"
 #include "string"
-#include <functional>
 
 #include <jni.h>
 #include "../environment.h"

@@ -23,7 +23,6 @@
 #include <utility>
 #include <vector>
 #include <unordered_set>
-#include <functional>
 
 #include "libretrodroid.h"
 #include "utils/libretrodroidexception.h"
